@@ -6,7 +6,7 @@ require_once $mageFilename;
 Mage::setIsDeveloperMode(true);
 ini_set('display_errors', 1);
 umask(0);
-Mage::app();
+Mage::app();sùmfql mpkpfqspo jfiod jkùpo fikqsdjk ikfqiksoùpdi kpqsdifçpo ifkd auqjsdioik pjfkqd lksqfùpokj lj
 
 /**
 * Set up the redis client
